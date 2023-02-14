@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ![bblogo](https://user-images.githubusercontent.com/97859963/187035534-4eacd461-23c2-4c67-8dc4-e493229ff20c.PNG)
 
 Nesse projeto elaborei um **dashboard informattivo** sobre o último concurso do **Banco do Brasil** realizado no ano de 2021 para o cargo **Agente Comercial**.
-Trata-se de um concurso importante por ter sido até o momento o maior concurso já realizado no páis, com um total de **1,6 milhão** de inscritos.
+Trata-se de um concurso importante por ter sido até o momento o maior concurso já realizado no país, com um total de **1,6 milhão** de inscritos.
 O relatório conta uma série de informações, tais como :
 1. Total de Inscrito por Estado;
 2. Total de Inscritos por idade;
